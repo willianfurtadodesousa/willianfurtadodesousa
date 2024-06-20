@@ -1,6 +1,5 @@
 ## Hi there 👋
 🇺🇸
-
 I'm a designer transitioning to web development, focused on Front-end. With experience in creating visual experiences, I seek to balance aesthetics and functionality. I work well in a team, I have good communication and I am always improving my knowledge.
 
 🇧🇷
