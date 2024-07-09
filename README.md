@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-I'm a designer transitioning my career into web development. Committed to delivering efficient solutions and with experience in creating visual experiences, I seek to balance aesthetics and functionality. I work well in a team, I have good communication and I am always improving my knowledge.
+I'm a design professional transitioning into a career in web development. Committed to delivering efficient solutions and with experience in visual creations, I try to balance aesthetics and functionality.
+
+During my free time, I work on personal projects to improve my skills. I love collaborating with other developers and staying up to date with the latest market trends.
+
+I work well in a team, I have good communication and I am always looking to improve my knowledge.
 <!--
 **willianfurtadodesousa/willianfurtadodesousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
