@@ -7,7 +7,8 @@ During my free time, I work on personal projects to improve my skills. I love co
 I work well in a team, I have good communication and I am always looking to improve my knowledge.
 
 ![matrix](https://github.com/user-attachments/assets/b9e144f0-5329-49ff-ae51-25a715cf62c3)
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+### 🛠️ Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,linux,git,github,debian,ps,vscode&theme=dark)](https://skillicons.dev)
 
 <!--
 **willianfurtadodesousa/willianfurtadodesousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
