@@ -1,6 +1,5 @@
-<!--## Hi there 👋
-
-### 🛠️ Languages and Tools:
+## Hi there 👋
+<!--### 🛠️ Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,vscode,figma,linux,git,github,debian,ps)](https://skillicons.dev)
 
 <!--![matrix](https://github.com/user-attachments/assets/b9e144f0-5329-49ff-ae51-25a715cf62c3)-->
