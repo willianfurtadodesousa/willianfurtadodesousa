@@ -1,4 +1,4 @@
-## Speak my brother 🤙
+## hello 🤙
 <!--### 🛠️ Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,vscode,figma,linux,git,github,debian,ps)](https://skillicons.dev)
 
