@@ -1,4 +1,4 @@
-## Hi there 👋
+## Speak my brother 🤙
 <!--### 🛠️ Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,vscode,figma,linux,git,github,debian,ps)](https://skillicons.dev)
 
@@ -6,7 +6,6 @@
 
 <!--
 **willianfurtadodesousa/willianfurtadodesousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
