@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<!--<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
   Faça uma breve apresentação sua com o seu nome e não esqueça a <strong>sua stack</strong>.<br>
@@ -28,22 +28,22 @@
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK" alt="Facebook"/></a>
   <a href="#" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
-</p>
+</p>-->
 
-<!--```js
-import Desenvolvedor from "SeuNick";
+```js
+import Desenvolvedor from "softwar";
 
 class SobreMim extends Desenvolvedor {
-  nome = "Seu nome";
-  area = "Sua área";
-  trabalho = "Onde trabalha";
-  local = "Local";
+  nome = "Willian";
+  area = "Front-end";
+  trabalho = "Rw Grau Foto digital";
+  local = "Tocantins";
 }
 
 class Skills extends Desenvolvedor {
-  linguagens = ["Suas linguagens"];
-  bibliotecas = ["Suas bibliotecas"];
-  frameworks = ["Seus frameworks"];
+  linguagens = ["java, Javascript"];
+  bibliotecas = ["Stack Overflow"];
+  frameworks = ["Vue.js"];
 }
 ```
 
