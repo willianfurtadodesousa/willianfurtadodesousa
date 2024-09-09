@@ -42,8 +42,8 @@ class SobreMim extends Desenvolvedor {
 
 class Skills extends Desenvolvedor {
   linguagens = ["java, Javascript"];
-  bibliotecas = ["Stack Overflow"];
-  frameworks = ["Vue.js"];
+  bibliotecas = ["Stack Overflow, jQuery"];
+  frameworks = ["Vue.js, Bootstrap"];
 }
 ```
 
