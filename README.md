@@ -1,5 +1,21 @@
-## hello 🤙
+
+import Desenvolvedor from "SeuNick";
+
+class SobreMim extends Desenvolvedor {
+  nome = "Seu nome";
+  area = "Sua área";
+  trabalho = "Onde trabalha";
+  local = "Local";
+}
+
+class Skills extends Desenvolvedor {
+  linguagens = ["Suas linguagens"];
+  bibliotecas = ["Suas bibliotecas"];
+  frameworks = ["Seus frameworks"];
+}
+
 <!--### 🛠️ Languages and Tools:
+## hello 🤙
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,vscode,figma,linux,git,github,debian,ps)](https://skillicons.dev)
 
 <!--![matrix](https://github.com/user-attachments/assets/b9e144f0-5329-49ff-ae51-25a715cf62c3)-->
