@@ -30,6 +30,8 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
 </p>-->
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=willianfurtadodesousa&label=Profile%20views&color=0e75b6&style=flat" alt="willianfurtadodesousa" /> </p>
+
 ```js
 import Desenvolvedor from "softwar";
 
