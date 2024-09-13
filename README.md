@@ -30,8 +30,11 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
 </p>-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=willianfurtadodesousa&label=Profile%20views&color=0e75b6&style=flat" alt="willianfurtadodesousa" /> </p>
 
+<!--<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ad6f&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0b0b0b&height=120&section=footer"/>-->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=willianfurtadodesousa&label=Profile%20views&color=0e75b6&style=flat" alt="willianfurtadodesousa" /> </p>
 
 ```js
 import Desenvolvedor from "softwar";
@@ -49,6 +52,7 @@ class Skills extends Desenvolvedor {
   frameworks = ["Vue.js, Bootstrap"];
 }
 ```
+
 
 <!--### 🛠️ Languages and Tools:
 ## hello 🤙
