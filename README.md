@@ -34,7 +34,7 @@
 <!--<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ad6f&height=120&section=header"/>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0b0b0b&height=120&section=footer"/>-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=willianfurtadodesousa&label=Profile%20views&color=0e75b6&style=flat" alt="willianfurtadodesousa" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=willianfurtadodesousa&label=Profile%20views&color=0e75b6&style=flat" alt="willianfurtadodesousa" /> </p>
 
 ```js
 import Desenvolvedor from "softwar";
@@ -50,7 +50,7 @@ class Skills extends Desenvolvedor {
   linguagens = ["java, Javascript"];
   bibliotecas = ["Stack Overflow, jQuery"];
   frameworks = ["Vue.js, Bootstrap"];
-}
+}-->
 ```
 
 
